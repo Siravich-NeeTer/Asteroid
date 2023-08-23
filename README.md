@@ -17,3 +17,5 @@ Asteroid Game is an assignment in GameImplement Technique Class (DT170)
 - K -> Shoot Homing-Missile
 
 **Library** : GLFW / GLAD / GLM / irrKlang / SOIL / CDTlib
+
+![Screenshot](Asteroid/WorkingDir/GamePlay.png)
