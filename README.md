@@ -1,6 +1,6 @@
 # Asteroid
 
-Asteroid Game is an assignment in class
+Asteroid Game is an assignment in GameImplement Technique Class (DT170)
 
 **Features**
 - Checking Collision (Rectangle vs Rectangle) / (Circle vs Circle) / (Rectangle vs Circle)
